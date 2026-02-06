@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+.container{
+  @apply max-w-[1145px] mx-auto
+}
+@theme{
+  --font-montserrat : "Montserrat", sans-serif;
+}
+
+.menu ul li a {
+  @apply font-semibold text-sm font-montserrat text-[#333333] duration-150 hover:text-cyan-600
+}
