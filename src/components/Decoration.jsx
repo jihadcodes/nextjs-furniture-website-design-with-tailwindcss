@@ -11,7 +11,7 @@ const Decoration = () => {
     <>
         <section className=' pb-15 pt-15 border-b border-[#D7D6D6]'>
             <div className="container">
-                <div className="c-hedding text-center pb-12 ">
+                <div className="c-hedding text-center pb-12.5 ">
                     <h3 className='font-montserrat font-bold text-[32px] text-[#333333] pb-5 '>
                         Browse The Range
                     </h3>
@@ -30,7 +30,7 @@ const Decoration = () => {
                                         </div>
                                         <div className="card  ">
                                             <Image src={decor3} alt='decoration-image'/>
-                                            <h3 className='pt-7 text-center font-montserrat font-semibold text-[24px] text-[#333333] '>Dining</h3>
+                                            <h3 className='pt-7.5 text-center font-montserrat font-semibold text-[24px] text-[#333333] '>Dining</h3>
                                         </div>
                 </div>
             </div>
