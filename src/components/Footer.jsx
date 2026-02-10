@@ -8,7 +8,7 @@ import image4 from '../../public/image/IG-4.jpg'
 const Footer = () => {
   return (
     <>
-    <footer className='bg-[#03344F] pt-12.2 pb-22.2'>
+    <footer className='bg-[#03344F] pt-12.25 pb-22.25'>
         <div className="container">
             <div className="flex">
               <div className="f-left w-[35%] mr-5.75">
